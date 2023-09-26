@@ -56,6 +56,7 @@ Copyright (c) 2019-2020, Taner Sener
 
 openh264: BSD 2-Clause
 Copyright (c) 2013, Cisco Systems
+(NOTE: Please check for Patent: http://www.openh264.org/BINARY_LICENSE.txt)
 
 libvpx: BSD 3-Clause
 Copyright (c) 2010, The WebM Project authors. All rights reserved.
