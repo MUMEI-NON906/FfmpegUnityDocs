@@ -1,5 +1,16 @@
 # FFmpeg for Unity
 
+## 重要：FFmpeg for Unityの今後について
+
+Androidの「16KBページサイズ」については対応いたしません。
+Androidのライブラリのビルドに使用しているffmpeg-kitのサポートがすでに終了されていたためです。
+したがって、今後Androidで使用することができなくなります。
+
+また、他のデバイスについても、このリポジトリの最終更新が1年前ということもあり、
+今後の更新や動作保証は行わない方針とさせていただきます。
+
+大変申し訳ございませんが、ご理解ください。
+
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page1.png)
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page2.png)  
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page3.png)

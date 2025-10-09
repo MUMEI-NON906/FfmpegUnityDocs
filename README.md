@@ -2,6 +2,16 @@
 
 日本語版は[こちら](README_JP.md)
 
+## Important Notice: Regarding the Future of FFmpeg for Unity
+
+I will not be adding support for Android's "16KB page size" requirement.
+This is because ffmpeg-kit, the library I rely on to build for Android, is no longer supported.
+Consequently, this asset will no longer be usable on Android going forward.
+
+Furthermore, considering that this repository has not been updated in over a year, I have decided to cease all future updates and will not provide operational guarantees for any other devices.
+
+I appreciate your understanding in this matter.
+
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page1.png)
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page2.png)  
 ![](https://non906.github.io/images/screenshots/ffmpeg_Page3.png)
